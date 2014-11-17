@@ -36,6 +36,17 @@ Drill into node-level test results for detailed reporting, run node tests
 <img src="./imgs/results1.png" width="400px"/>
 <p>
 
+#### Remote Logs
+EagleEye supports remote log file viewing and searching (to enable, configure SSH auth under Team settings).
+<p>
+<img src="./imgs/logs2.png"/>
+<p>
+
+#### Topology View
+Navigate node configuration using topology view:
+<p>
+<img src="./imgs/topo1.png"/>
+<p>
 
 #### Custom Tests
 Need a custom test? Extend the framework and implement your own:
