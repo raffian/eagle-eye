@@ -1,9 +1,9 @@
 EagleEye
 =========
-A web-based diagnostics console for configuring lightweight tests on nodes and arbitrary application services. Health and availability info is displayed in real-time as it becomes avialable upon executing a test battery.
+A web-based diagnostics console for configuring lightweight tests on nodes and arbitrary application services. 
 
 #### Agentless Monitors
-EagleEye is 100% agentless. Use the console to configure lightweight tests for pretty much anything with a heartbeat: virtual nodes, web/app servers, databases, web services, even linux processes and file system resources.
+EagleEye is 100% agentless. Simply use the console to configure lightweight tests for pretty much anything with a heartbeat: virtual nodes, web/app servers, databases, web services, even linux processes and file system resources.
 #####Supported Tests
 - Ping (native)   
 - Http Get        
