@@ -19,13 +19,13 @@ Eagle-eye is 100% agentless. Use the console to configure lightweight tests for 
 ## Diagnostics Web Console
 
 #### Control Panel
-Displays controls for selecting operational zones; test result metrics reported in real-time:
+Displays selectors for targeting operational zones; result/metrics updated in real-time:
 <p>
 <a href="http://www.nextideapartners.com/site/images/git/panel.png"><img src="http://www.nextideapartners.com/site/images/git/panel.png" /></a>
 <p>
 
 #### Graphical Reporting
-Test results generated dynamically and reflect health of node and individual tests for quickly identifying problems:
+Graphical reporting of node health for quickly identifying problems:
 <p>
 <a href="http://www.nextideapartners.com/site/images/git/diag1.png">
   <img src="http://www.nextideapartners.com/site/images/git/diag1.png" width="600px"/>
@@ -34,7 +34,7 @@ Test results generated dynamically and reflect health of node and individual tes
 
 
 #### Interactive Results
-Drill into node-level test results for detailed reporting, run node tests
+Get detailed test results; execute node-level tests using 'Test Again' button:
 <p>
 <a href="http://www.nextideapartners.com/site/images/git/results1.png">
   <img src="http://www.nextideapartners.com/site/images/git/results1.png" width="400px"/>
@@ -58,7 +58,7 @@ Navigate node configuration using topology view:
 <p>
 
 #### Custom Tests
-Need a custom test? Extend the framework and implement your own:
+Need a custom test? Just extend the framework:
 ```groovy
 class MyTest extends AbstractDiagnostic {
 
