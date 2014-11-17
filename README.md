@@ -46,9 +46,9 @@ Displays controls for selecting operational zones; test result metrics reported 
 #### Graphical Reporting
 Test results generated dynamically and reflect health of node and individual tests for quickly identifying problems:
 
-![](./imgs/diag1.png =500x)
+![](./imgs/diag1.png)
 
 #### Interactive Results
 Drill into node-level test results for detailed reporting, run node tests
-![tr1]
-[tr1]: http://i.imgur.com/NKdWbc1.png
+
+![](./imgs/results1.png)
