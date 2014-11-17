@@ -40,12 +40,12 @@ class MyTest extends AbstractDiagnostic {
 
 #### Control Panel
 Displays controls for selecting operational zones; test result metrics reported in real-time:
-[[http://i.imgur.com/0D7GCiT.png]]
+[[ http://i.imgur.com/0D7GCiT.png ]]
 
 #### Graphical Reporting
 Test results generated dynamically and reflect health of node and individual tests for quickly identifying problems:
-[[http://i.imgur.com/EiHcTaA.png|width=400px]]
+[[ http://i.imgur.com/EiHcTaA.png | width=400px ]]
 
 #### Interactive Results
 Drill into node-level test results for detailed reporting, run node tests
-[[http://i.imgur.com/NKdWbc1.png]]
+[[ http://i.imgur.com/NKdWbc1.png ]]
