@@ -4,7 +4,7 @@ A web-based diagnostics console for configuring lightweight tests on nodes and a
 
 #### Agentless Monitors
 Eagle-eye is 100% agentless. Use the console to configure lightweight tests for pretty much anything with a heartbeat: virtual nodes, web/app servers, databases, web services, even linux processes and file system resources.
-
+#####Supported Tests
 - Ping (native)   
 - Http Get        
 - Http Put        
@@ -12,7 +12,7 @@ Eagle-eye is 100% agentless. Use the console to configure lightweight tests for 
 - Mongo ping      
 - RDBMS connect   
 - Process Stat    
-- File System     
+- File System (check files, folder, mounts)
 
 
 
