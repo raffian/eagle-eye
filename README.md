@@ -22,15 +22,16 @@ File System     |
 class MyTest extends AbstractDiagnostic {
 
    TestResult runDiagnostic(nodeConfig, testConfig, options) {
+      
       attemptDiagnostic(options) { ->
-         
-         def result = new TestResult()
+         def result
          try{                     
             //check some service, database, etc
-            result.setTestPassed("Looking good")
+            result = new TestResultPassed("Looking good")
+            
          }catch(Exception e){
             log.error(e.getMessage(), e)
-            result.setTestFailed(e.getMessage())            
+            result =  new TestResultFailed(e.getMessage())            
          }
          return result
       }
@@ -38,4 +39,7 @@ class MyTest extends AbstractDiagnostic {
 }
 ```
 
+#### Diagnostics Control Panel
+Target specific operational zones for diagnostics reporting using the control panel:
 
+<a href="http://i.imgur.com/EiHcTaA.png"><img src="http://i.imgur.com/EiHcTaA.png" align="left" width="400" ></a>
