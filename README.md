@@ -21,31 +21,40 @@ Eagle-eye is 100% agentless. Use the console to configure lightweight tests for 
 #### Control Panel
 Displays controls for selecting operational zones; test result metrics reported in real-time:
 <p>
-<img src="./imgs/panel.png"/>
+<a href="http://www.nextideapartners.com/site/images/git/panel.png"><img src="http://www.nextideapartners.com/site/images/git/panel.png" /></a>
 <p>
 
 #### Graphical Reporting
 Test results generated dynamically and reflect health of node and individual tests for quickly identifying problems:
 <p>
-<a href="http://i.imgur.com/EiHcTaA.png"><img src="http://i.imgur.com/EiHcTaA.png" width="500px"/></a>
+<a href="http://www.nextideapartners.com/site/images/git/diag1.png">
+  <img src="http://www.nextideapartners.com/site/images/git/diag1.png" width="600px"/>
+</a>
 <p>
+
 
 #### Interactive Results
 Drill into node-level test results for detailed reporting, run node tests
 <p>
-<img src="./imgs/results1.png" width="400px"/>
+<a href="http://www.nextideapartners.com/site/images/git/results1.png">
+  <img src="http://www.nextideapartners.com/site/images/git/results1.png" width="400px"/>
+</a>
 <p>
 
 #### Remote Logs
 EagleEye supports remote log file viewing and searching (to enable, configure SSH auth under Team settings).
 <p>
-<img src="./imgs/logs2.png"/>
+<a href="http://www.nextideapartners.com/site/images/git/logs2.png">
+  <img src="http://www.nextideapartners.com/site/images/git/logs2.png"/>
+</a>
 <p>
 
 #### Topology View
 Navigate node configuration using topology view:
 <p>
-<img src="./imgs/topo1.png"/>
+<a href="http://www.nextideapartners.com/site/images/git/topo1.png">
+  <img src="http://www.nextideapartners.com/site/images/git/topo1.png"/>
+</a>
 <p>
 
 #### Custom Tests
