@@ -34,7 +34,7 @@ Graphical reporting of node health for quickly identifying problems:
 
 
 #### Interactive Results
-Get detailed test results; execute node-level tests using 'Test Again' button:
+Get detailed test results; re-execute node tests using 'Test Again' button:
 <p>
 <a href="http://www.nextideapartners.com/site/images/git/results1.png">
   <img src="http://www.nextideapartners.com/site/images/git/results1.png" width="400px"/>
