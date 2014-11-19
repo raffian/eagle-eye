@@ -18,7 +18,7 @@ EagleEye is 100% agentless. Simply use the console to configure tests for a vari
 ## Diagnostics Web Console
 
 #### Control Panel
-Select the target environment, execute diagnostics, done; results are updated in real-time:
+Main console for selecting target environments for diagnostics verification. Execution status and test results updated in real-time based on availability.
 <p>
 <a href="http://www.nextideapartners.com/site/images/git/panel.png"><img src="http://www.nextideapartners.com/site/images/git/panel.png" /></a>
 <p>
