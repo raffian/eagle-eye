@@ -59,7 +59,7 @@ Navigate node configuration using topology view:
 #### Custom Tests
 Need a custom test? Just extend the framework:
 ```groovy
-class MyTest extends AbstractDiagnostic {
+class MyDiagnostic implements Diagnostic {
 
    TestResult runDiagnostic(nodeConfig, testConfig, options) {
       attemptDiagnostic(options) { ->
